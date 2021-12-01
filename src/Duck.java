@@ -1,3 +1,5 @@
+import static java.lang.System.out;
+
 public abstract class Duck {
     FlyBehavior flyBehavior;
     QuackBehavior quackBehavior;
